@@ -7,6 +7,6 @@ Estudante de Análise e Desenvolvimento de Sistemas com forte paixão por progra
 **🛠️ Frameworks:** Node.js, TailwindCss <br> <br>
 **📚 Banco de Dados:** MySQL, H2, MongoDB, Postgree <br> <br>
 **🧰 Outras Ferramentas:** Git, Docker, Postman, VSCode <br> <br>
-📫 Contato <br> <br>
+📫 Contato <br> 
 **LinkedIn:** https://www.linkedin.com/in/anderson-cardim/ <br> 
-**E-mail:** anderson10cardim@gmail.com <br> <
+**E-mail:** anderson10cardim@gmail.com <br> 
